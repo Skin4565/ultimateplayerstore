@@ -1,0 +1,47 @@
+#DIGITE SEU LOGIN NO SITE DA PENTAZY PARA VERIFICACAO DO PLUGIN    
+LICENCA:
+    EMAIL: ""
+    SENHA: ""
+    TOKEN: ""
+
+
+#Table StoreLocation
+MYSQL:
+    HOST: 'localhost'
+    PORT:  3306
+    USER: 'root'
+    PASSWORD: '1234'
+
+  
+EXTRAS:
+    BROADCAST: 
+        PRICE: 15
+        NO-MONEY: "&cYou dont have money."
+        PREFIX: "&b&l[BROADCAST]"
+        FORMAT: "[%player%] %prefix%: {msg}"
+
+MENSAGENS:
+    NO-MONEY: "&cYou dont have money."
+    ERRO-DELETE-STORE: "&cErro to delete store."
+    NO-PERMISSION-TO-CREATE-STORE: "&cYou dont have permission."
+    BROADCAST-WARN: "&a&lEnter your message:"
+    WELCOME-WARN: "&a&lEnter your message:"
+    WELCOME-SUCESS-UPDATE: "Welcome message updated!"
+    STORE-SAVED: "&aStore Saved."
+    STORE-DELETED: "&cStore deleted successfully!"
+    STORE-UPDATE-NAME: "&e&lStore name changed to:"
+    STORE-UPDATE-LOCATION: "Updated positions for:"
+    STORE-ALREADY-CREATED: "&cYou already have a store! Use &e/store uploc&c, to update the store position!"
+    STORE-LOCATION-WARN: "&eSpawn from the store saved in:"
+    STORE-SET-FIRST-NAME: "&eEnter the name of your store"
+    STORE-NO-PERM: "&cOnly &6VIPs&c players can create store."
+    NO-STORE: "&cYou do not have a store!"
+    PLAYER-WITHOUT-SHOP: "&cThis player has no store."
+    PLAYER-OFFLINE: "&cThe player is offline! And your store is closed!"
+    PLAYER-JOIN-STORE: "&3[+] {player} Entered your store!"
+    
+    
+    
+    
+    
+    
